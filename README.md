@@ -1,4 +1,3 @@
-![Gift](https://tenor.com/bqrUA.gif)
 ### Hi there 👋
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently honing my Frontend development skills
@@ -8,6 +7,8 @@
 - 📫 How to reach me: [Email me](<mailto:juanmapardolo@gmail.com>)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a YouTube video 
+
+![coding](https://user-images.githubusercontent.com/112973440/221945165-566e61e4-f0ae-4225-9599-330708446a39.gif)
 
 <!--
 **juanxxoxo/juanxxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
