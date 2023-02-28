@@ -1,4 +1,4 @@
-[![Gift](https://tenor.com/bqrUA.gif)](https://tenor.com/bqrUA.gif)
+[![Gift](https://tenor.com/bqrUA.gif)]
 ### Hi there 👋
 - 🔭 I’m currently working on building my portfolio
 - 🌱 I’m currently honing my Frontend development skills
