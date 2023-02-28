@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on building my portfolio
-- 🌱 I’m currently honing my Frontend development skills
+- 🔭 I’m currently working for a residential state website project
+- 🌱 I’m currently making my Frontend development skills better
 - 👯 I’m looking to land in a Web Development job
 - 🤔 I’m looking for help with using advanced databases tools
 - 💬 Ask me about topics about Web Development, computer programming, football and salsa music
