@@ -4,7 +4,7 @@
 - 👯 I’m looking to land in a Web Development job
 - 🤔 I’m looking for help with using advanced databases tools
 - 💬 Ask me about topics about Web Development, computer programming, football and salsa music
-- 📫 How to reach me: [Email me](<juanmapardolo@gmail.com>)
+- 📫 How to reach me: [Email me](<mailto:juanmapardolo@gmail.com>)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a YouTube video 
 
