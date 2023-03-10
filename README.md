@@ -10,6 +10,8 @@
 
 ![coding](https://user-images.githubusercontent.com/112973440/221945165-566e61e4-f0ae-4225-9599-330708446a39.gif)
 
+![Funny Cat GIF](https://media.giphy.com/media/jQeY3sT25YsvCeYXrb/giphy.gif)
+
 <!--
 **juanxxoxo/juanxxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
