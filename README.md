@@ -1,11 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working for a residential state website project
-- 🌱 I’m currently making my Frontend development skills better
-- 👯 I’m looking to land in a Web Development job
-- 🤔 I’m looking for help with using advanced databases tools
+- 🔭 I’m currently working in Databases projects
+- 🌱 I’m currently making my SQL Query skills better
+- 👯 I’m looking to land in a Software Engineer Internship
+- 🤔 I’m looking for help with developing Fullstack Software
 - 💬 Ask me about topics about Web Development, computer programming, football and salsa music
 - 📫 How to reach me: [Email me](<mailto:juanmapardolo@gmail.com>)
-- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have a YouTube video 
 
 ![coding](https://user-images.githubusercontent.com/112973440/221945165-566e61e4-f0ae-4225-9599-330708446a39.gif)
