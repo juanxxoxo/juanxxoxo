@@ -1,26 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=spacial&pause=1000&color=1DF713&background=1628FF00&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 ### Hi there 👋
-- 🔭 I’m currently working in Databases projects
-- 🌱 I’m currently making my SQL Query skills better
-- 👯 I’m looking to land in a Software Engineer Internship
-- 🤔 I’m looking for help with developing Fullstack Software
-- 💬 Ask me about topics about Web Development, computer programming, football and salsa music
+- 🔭 I’m currently working in Software Development Skills
+- 🌱 I’m currently making my Data Structures and Algorithms better
+- 🧐 I’m looking to keep on developing exciting projects!
+- 💬 Ask me about topics about Web Development, Software Development, and Gaming
 - 📫 How to reach me: [Email me](<mailto:juanmapardolo@gmail.com>)
 - ⚡ Fun fact: I have a YouTube video 
 
 ![coding](https://user-images.githubusercontent.com/112973440/221945165-566e61e4-f0ae-4225-9599-330708446a39.gif)
 
-<!--
-**juanxxoxo/juanxxoxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-### - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
