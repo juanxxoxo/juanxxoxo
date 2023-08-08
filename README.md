@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=spacial&pause=1000&color=1DF713&background=1628FF00&width=435&lines=Hello+World!)](https://git.io/typing-svg)
 ### Hi there 👋
 - 🔭 I’m currently working in Databases projects
 - 🌱 I’m currently making my SQL Query skills better
