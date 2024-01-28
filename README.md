@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working in Software Development Skills
+- 🔭 I’m currently working in Debugging a Bee Swarm
 - 🌱 I’m currently making my Data Structures and Algorithms better
-- 🧐 I’m looking to keep on developing exciting projects!
+- 🧐 I’m looking to keep on the craziest latest news about AI world phase!
 - 💬 Ask me about topics about Web Development, Software Development, and Gaming
 - 📫 How to reach me: [Email me](<mailto:juanmapardolo@gmail.com>)
 - ⚡ Fun fact: I have a YouTube video 
